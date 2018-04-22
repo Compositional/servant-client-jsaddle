@@ -84,7 +84,7 @@ test-suite spec
     , semigroupoids
     , servant
     , servant-client-core
-    , servant-client-js
+    , servant-client-jsaddle
     , servant-server
     , string-conversions
     , text
